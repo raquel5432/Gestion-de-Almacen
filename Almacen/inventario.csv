@@ -1,0 +1,10 @@
+tipo;id;nombre;cantidad;precio;extra1;extra2
+Perecedero;P001;Leche entera;35;1.2000;11;4.0
+Perecedero;P002;Yogur natural;22;0.8500;17;2.0
+Electrónico;E001;Televisor 55";42;450.0000;24;110
+Electrónico;E002;Aire acondicionado;25;650.0000;36;220
+Materia Prima;M001;Harina de trigo;200;0.4500;kg;Molinos SA
+Materia Prima;M002;Aceite de girasol;80;1.3000;lt;AceitesCorp
+Electrónico;E003;Hp pro;120;2400.0000;12;220
+Materia Prima;M003;Agua;20000;2.3000;unidad;agua azul
+Perecedero;P003;Queso;24;6.5000;14;6.0
